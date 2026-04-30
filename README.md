@@ -6,7 +6,7 @@
 打包好的exe文件：photo_water_marker_gui.exe
 
 # 效果
-![](./photo_water_marker_gui.png)
+![效果](./photo_water_marker_gui.png)
 
 
 
